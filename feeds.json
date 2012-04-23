@@ -1,0 +1,27 @@
+{
+  "blogs": {
+    "abajournal": "http://feeds.feedburner.com/abajournal/topstories",
+    "jim": "http://feeds.feedburner.com/LawPracticeTipsBlog",
+    "pmapipe": "http://pipes.yahoo.com/pipes/pipe.run?_id=ENd84ISt3BGo_yx7JZhxuA&_render=rss"
+  },
+  "courts": {
+    "fed": {
+      "scotus": "http://www.law.cornell.edu/supct/rss/supct_recent.rss",
+      "tenthcircuit": "http://www.ca10.uscourts.gov/opinions/new/daily_decisions.rss"
+    },
+    "okla": {
+      "appellate": "http://www.oscn.net/rss/AllRecentDecisions.asp",
+      "opinions": {
+        "attygen": "http://www.oscn.net/rss/STOKAG.asp",
+        "civil": "http://www.oscn.net/rss/STOKCSCV.asp",
+        "criminal": "http://www.oscn.net/rss/STOKCSCR.asp",
+        "supreme": "http://www.oscn.net/rss/STOKCSSC.asp"
+      }
+    }
+  },
+  "news": {
+    "okbar": "http://feeds2.feedburner.com/OklahomaBarAssociation-LatestNews",
+    "pewcenter": "http://www.pewcenteronthestates.org/rss_feed.aspx?category=news",
+    "stateline": "http://feeds.stateline.org/StatelineorgRss-Oklahoma"
+  }
+}
